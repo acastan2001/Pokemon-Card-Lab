@@ -1,0 +1,272 @@
+body{
+    background-color: lightslategrey;
+  }
+  nav {
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: Impact, fantasy;
+    font-size: 20px;
+  }
+  
+  .cardbody {
+    height: 670px;
+    width: 470px;
+    background-image: linear-gradient(#ECE339, #F5ED3B);
+    border-radius: 20px;
+    position: fixed;
+  
+  }
+  
+  .container {
+    height: 620px;
+    width: 420px;
+    background-image: linear-gradient(#81C245, #AEFF1E, #6CD92E,#2ED98B, green);
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border-radius: 20px;
+  }
+  
+  .cardimage {
+    height: 250px;
+    width: 380px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    border-radius: 20px;
+  }
+  
+  footer {
+    width: 100%;
+    left: 15px;
+    bottom: 0px;
+    position: absolute;
+    z-index: 1;
+    font-family: Gill Sans Condensed Bold;
+    font-size: 20px;
+  }
+  
+  
+  img {
+    height: 100%;
+    width: 100%;
+    top: 100px;
+    left: 20px;
+    z-index: 999;
+    /* margin-top: -245px;
+    margin-left: 160px; */
+  }
+  
+  
+  .middleText{
+    font-family: "Times New Roman", Times, serif;
+  }
+  .middle1{
+  font-size: 25px;
+  margin-top: -70%;
+   margin-left: 30%;
+  
+  }
+  
+  .middle2{
+    font-size: 25px;
+    margin-top: -12.5%;
+    margin-left: 90%;
+  }
+  
+  .middle3{
+    font-size: 25px;
+    margin-top: 8%;
+    margin-left: 30%;
+  }
+  
+  .middle4{
+    font-size: 25px;
+    margin-left: 90%;
+    margin-top: -10%;
+  
+  }
+  
+  .line1 {
+    border: 10px;
+    background-color: black;
+    height: 1px;
+    width: 190px;
+    z-index: 1;
+    position: absolute;
+    margin-top: 60%;
+    font-size: x-small;
+    margin-left: 30px;
+  }
+  
+  .line-text {
+    font-size: x-small;
+  }
+  
+  .line-text2 {
+    font-size: x-small;
+    margin-left: 75px;
+    margin-top: -17px;
+  }
+  
+  
+  .line2 {
+    border: 5px;
+    background-color: black;
+    height: 1px;
+    width: 160px;
+    z-index: 1;
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 30px;
+  }
+  
+  .line-text3 {
+    font-size: medium;
+    margin-left: 25px;
+    margin-top: -5px;
+  }
+  
+  .line-text4 {
+    font-size: medium;
+    margin-left: 100px;
+    margin-top: -30px;
+  
+  }
+  
+  .line-text5 {
+    float: left;
+    margin-top: 5px;
+    font-size: x-small;
+  }
+  
+  .redballs img {
+    width: 5%;
+    height: 3.5%;
+    margin-top: 108%;
+    margin-left: 13px;
+    z-index: 999;
+    position: absolute;
+  }
+  
+  .blueballs img {
+    width: 5%;
+    height: 3.5%;
+    margin-top: 108%;
+    margin-left: 85px;
+    position: absolute;
+  }
+  
+  .text {
+    font-size: 12px;
+    margin-left: 243px;
+    margin-top: 60%;
+    font-style: oblique;
+    position: absolute;
+  }
+  
+  .text2 {
+    font-size: 12px;
+    margin-left: 230px;
+    margin-top: 63%;
+    font-style: oblique;
+    position: absolute;
+  }
+  
+  .text3 {
+    font-size: 12px;
+    margin-left: 220px;
+    margin-top: 66.5%;
+    font-style: oblique;
+    position: absolute;
+  }
+  
+  .outlinebox {
+    height: 15%;
+    width: 51%;
+    margin-top: 55%;
+    margin-left: 200px ;
+    position: absolute;
+  }
+  
+  
+  .star {
+    width: 5%;
+    height: 4%;
+    margin-top: 27%;
+    margin-left: 70px;
+    position: absolute;
+  }
+  
+  .bottom {
+    font-size: 10px;
+    margin-bottom: -30px;
+  }
+  
+  .bottom2 {
+    font-size: 15px;
+    margin-bottom: -32px;
+    margin-left: 220px;
+  }
+  
+  .bottom3 {
+    font-size: 15px;
+    margin-bottom: -3px;
+    margin-left: 305px;
+  }
+  
+  .dot {
+    font-size: 30px;
+    margin-left: 362px;
+    margin-top: 74%;
+  }
+  
+  .leaf{
+    width: 9%;
+    height: 6%;
+    margin-top: -25.8%;
+    margin-left: 20px;
+    position: absolute;
+  }
+  .leaf2{
+    width: 9%;
+    height: 6%;
+    margin-top: -12%;
+    margin-left: 20px;
+  }
+  .star2{
+    width: 8%;
+    height: 6%;
+    margin-top: -9%;
+    margin-left: 57px;
+  }
+  
+  .leaf3{
+    width: 15%;
+    height:10%;
+    margin-top: -107%;
+    margin-left: 85%;
+    position: absolute;
+  }
+  .hp{
+    margin-top: -105%;
+    margin-left: 75%;
+    font-size: 40px;
+  }
+  
+  .hp2{
+    margin-top: -12%;
+    margin-left: 70%;
+    font-size: 15px;
+  }
+  
+  
+  .mainOutline{
+    width: 80%;
+    height: 25%;
+    position: absolute;
+    margin-top: -26%;
+    margin-left: -10px;
+  
+  }
